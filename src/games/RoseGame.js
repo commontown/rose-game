@@ -7,7 +7,7 @@ import {
   portalRequestGameData,
   portalReportHighscore,
   requestXHR,
-} from '@commontown/arcade-game-library';
+} from '@commontown/arcade-library';
 
 const appInfo = {
   publisher: 'CommonTown Pte Ltd',
