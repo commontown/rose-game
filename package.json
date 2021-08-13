@@ -2,7 +2,7 @@
   "name": "rose-game",
   "version": "1.0.0",
   "private": true,
-  "homepage": "/arcade",
+  "homepage": "./",
   "dependencies": {
     "@commontown/arcade-library": "^3.0.1",
     "react": "^17.0.2",
