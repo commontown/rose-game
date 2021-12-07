@@ -14,3 +14,22 @@
 ## About Rose Game and Arcade Library
 * Rose Game is a sample game created using [Arcade Library](https://github.com/commontown/arcade-library).
 * It requires loading [Phaser library](https://phaser.io/) from the web (ie. phaser-arcade-physics.min.js) as well.
+
+## Sample Game Data
+```
+{
+  "timeGivenSec": 60,
+  "gravity": 20,
+  "roses": ["purple", "yellow", "white", "red", "blue"],
+  "winningPercentage": 70,
+  "finalPhaseItemsCount": 5,
+  "dispenseCount": 15,
+  "comboPower": 1.05,
+  "itemsRndMin": 1,
+  "itemsRndMax": 3,
+  "normalPhaseScoreRight": 200,
+  "normalPhaseScoreWrong": -200,
+  "finalPhaseScoreRight": 300,
+  "finalPhaseScoreWrong": -300
+}
+```
